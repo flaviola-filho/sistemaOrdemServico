@@ -48,9 +48,9 @@ Após o login, o usuário acessa o menu com as seguintes opções:
 🚧 Status de Desenvolvimento
     ✅ Tela de Login
     ✅ Controle de acesso por tipo de usuário
-    ✅ Cadastro de Clientes, SO e Usuários
-    ✅ Relatórios
-    ✅ Menu Principal
+    🔄 Cadastro de Clientes, SO e Usuários
+    ⬜ Relatórios
+    ⬜ Menu Principal
     🛠️ Melhorias na Interface e Design
     🧪 Testes Finais
 
